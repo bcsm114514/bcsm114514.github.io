@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>搭建博客的历程</title>
+      <link href="/2024/12/01/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%8E%86%E7%A8%8B/"/>
+      <url>/2024/12/01/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%8E%86%E7%A8%8B/</url>
+      
+        <content type="html"><![CDATA[<p>这是此博客的第一篇博文，这篇博文就来说说我是如何搭建此博客的<br>从一开始就打算利用Cloudflare来搭建，一个是速度快，另一个就是免费<br>于是我就在Github及互联网上搜索开源博客程序<br>在国内及国外大视频网站上播放量最多的分为三个博客程序:Hugo,Hexo,Rin<br>我先看中了Rin，因为它不需要用到GitHub<br>Rin的Github网址: <a href="https://github.com/openRin/Rin">Rin</a><br>结果做到一半才发现，这东西不仅搭建麻烦，而且其中用到的Cloudflare存储桶服务需要信用卡，于是果断退坑<br>于是在后面我就看上了Hexo<br>我早就见过不少基于Hexo的博客，不仅美观，而且简洁<br>于是又是一顿折腾<br>最后终于搞成了这个博客</p><p>鸣谢:CM喂饭，Hexo，Cloudflare，Github</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 数码 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
